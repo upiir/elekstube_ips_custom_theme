@@ -6,6 +6,25 @@ Custom theme for Elekstube IPS clock
 ![image](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/58c52f18-3ce1-4793-b83d-40573f6645aa)
 
 
+Themes:
+
+![digits_monochrome_grid_PREVIEW](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/36e12546-18da-488a-8509-0d9432a53711)
+![digits_nixie_big_grid_blue_PREVIEW](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/f1ad9505-b848-4edf-8df3-07d4992880f1)
+![digits_nixie_big_grid_green_PREVIEW](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/0e2610dd-b597-4b48-ab9e-cc1a038856a1)
+![digits_nixie_big_grid_red_PREVIEW](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/897fef1b-11b5-4b30-a2bc-b2fd6e6ad2ee)
+![digits_nixie_big_grid_violet_PREVIEW](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/41e16997-172f-41b8-a61e-67d6c951289b)
+![digits_nixie_connected_blue_PREVIEW](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/7b74075a-17ee-4e57-8b8e-a50a5707e669)
+![digits_nixie_connected_green_PREVIEW](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/80f4e76d-bf59-4f6f-bdf1-aac915ced9cf)
+![digits_nixie_connected_red_PREVIEW](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/d6e425d9-de0d-492b-943f-fa3b8d3e1aaf)
+![digits_nixie_connected_violet_PREVIEW](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/2c9f6024-7883-4989-b655-86a1d9b0646f)
+![digits_nixie_small_grid_blue_PREVIEW](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/81bf24e1-6897-46ce-ae8d-953a6d96fa2e)
+![digits_nixie_small_grid_green_PREVIEW](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/b9d4dc1f-82bc-44be-a0c9-8136fb141463)
+![digits_nixie_small_grid_red_PREVIEW](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/dc720e2d-3bf5-444e-aa4b-6be9f4ad8fda)
+![digits_nixie_small_grid_violet_PREVIEW](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/d11b965f-5807-4eb7-8cbe-1b623f8460f8)
+![digits_simplest_white_PREVIEW](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/a6f63efd-b88e-4db9-9c34-4806d13b11ec)
+
+
+
 
 Screenshots from the video:
 
