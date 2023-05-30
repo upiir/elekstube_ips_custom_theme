@@ -6,6 +6,9 @@ Custom theme for Elekstube IPS clock
 ![image](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/58c52f18-3ce1-4793-b83d-40573f6645aa)
 
 
+Big thanks goes to PCBWay for sponsoring the video. If you ever need PCBs and you use this link - https://www.pcbway.com/setinvite.aspx?inviteid=572577 - you will get 10 PCBs for free, only paying for shipping. Thank you PCBWay! Also, there are two PCBWay-like themes included. 
+
+
 Themes:
 
 ![digits_monochrome_grid_PREVIEW](https://github.com/upiir/elekstube_ips_custom_theme/assets/117754156/36e12546-18da-488a-8509-0d9432a53711)
